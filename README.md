@@ -1,6 +1,7 @@
 # IPL_Tableau_Dashboard
 
 📌 **Project Overview**
+
 This Tableau dashboard provides an in-depth analysis of IPL matches and ball-by-ball data from **2008 to 2020**. The visualizations offer insights into team performance, player statistics, match trends, and other key aspects of the Indian Premier League (IPL).
 
 📊 Dataset Information
